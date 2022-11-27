@@ -1,0 +1,17 @@
+[user]
+    name = RachaRajesh
+    email = rachael@example.com
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    lg = log --oneline --graph --decorate
+[core]
+    editor = vim
+    excludesfile = ~/.gitignore_global
+[pull]
+    rebase = false
+[push]
+    default = current
+[diff]
+    tool = vimdiff

@@ -1,0 +1,4 @@
+# inputrc
+set editing-mode vi
+set show-mode-in-prompt on
+"\C-l": clear-screen
